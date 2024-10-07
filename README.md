@@ -7,7 +7,7 @@ https://www.nand2tetris.org/
 ## Progress
 
 - [x] 0
-- [ ] 1
+- [x] 1
 - [ ] 2
 - [ ] 3
 - [ ] 4 
