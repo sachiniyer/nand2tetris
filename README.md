@@ -8,7 +8,7 @@ https://www.nand2tetris.org/
 
 - [x] 0
 - [x] 1
-- [ ] 2
+- [ ] 2 - everything but ALU
 - [ ] 3
 - [ ] 4 
 - [ ] 5
