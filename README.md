@@ -9,7 +9,7 @@ https://www.nand2tetris.org/
 - [x] 0
 - [x] 1
 - [x] 2
-- [ ] 3
+- [x] 3
 - [ ] 4 
 - [ ] 5
 - [ ] 6 
