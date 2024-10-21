@@ -13,10 +13,10 @@ https://www.nand2tetris.org/
 - [ ] 4 
 - [ ] 5
 - [ ] 6 
-- [ ] 7
-- [ ] 8
-- [ ] 9
-- [ ] 10
-- [ ] 11
-- [ ] 12
-- [ ] 13
+- ~[ ] 7~ (don't intend to do the second half of the course yet)
+- ~[ ] 8~
+- ~[ ] 9~
+- ~[ ] 10~
+- ~[ ] 11~
+- ~[ ] 12~
+- ~[ ] 13~
