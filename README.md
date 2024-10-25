@@ -10,7 +10,7 @@ https://www.nand2tetris.org/
 - [x] 1
 - [x] 2
 - [x] 3
-- [ ] 4 
+- [x] 4 
 - [ ] 5
 - [ ] 6 
 - ~[ ] 7~ (don't intend to do the second half of the course yet)
