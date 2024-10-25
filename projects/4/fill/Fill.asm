@@ -9,7 +9,6 @@
 // the screen should be cleared.
 
 
-
 (BEGIN)
     @24576
     D=A
