@@ -11,7 +11,7 @@ https://www.nand2tetris.org/
 - [x] 2
 - [x] 3
 - [x] 4 
-- [ ] 5
+- [x] 5
 - [ ] 6 
 - ~[ ] 7~ (don't intend to do the second half of the course yet)
 - ~[ ] 8~
